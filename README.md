@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **gio-papus/gio-papus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" alt="Bootstrap logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" alt="PHP logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM logo">
-   </div>
+  </div>
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=gio-papus&theme=onedark)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gio-papus&show_icons=true&theme=radical)
