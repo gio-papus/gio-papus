@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on clone Spotify
 - 🌱 I’m currently learning MongoDB
-- 👯 I’m looking to collaborate on Assembler Institute
+
 
  ### Connect with me:xgorgaslax@gmail.com
 
