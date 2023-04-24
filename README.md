@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 
-**gio-papus/gio-papus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gio-papus**
+Hello World!!!!
 
-Here are some ideas to get you started:
 
+- Hacking lover <3 
 - 🔭 I’m currently working on clone Spotify
 - 🌱 I’m currently learning MongoDB
 
